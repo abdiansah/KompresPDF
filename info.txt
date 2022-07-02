@@ -1,0 +1,59 @@
+=== KOMPRESI PDF
+
+Pembuat  : Abdiansah
+Versi    : 1.0.0 (Juni 2022)
+Kontak   : abdiansah.unsri@gmail.com
+
+
+=== TENTANG KOMPRESI PDF
+
+Kompresi PDF adalah aplikasi untuk melakukan kompresi file pdf menggunakan
+bantuan pustaka ghostscript (http://web.mit.edu/ghostscript/www/Ps2pdf.htm).
+Aplikasi ini dibuat menggunakan bahasa pemrograman Python dengan pustaka antarmuka
+QT5. Konversi bisa untuk satu atau lebih file pdf dengan beberapa pilihan jenis
+kompresi.
+
+
+=== PETUNJUK PENGGUNAAN SINGKAT
+
+1. Pilih lokasi file/folder, pilih file jika hanya satu file pdf yang akan
+   dikompres, pilih folder jika banyak file pdf yang akan dikompres
+2. Pilih jenis kompresi, ada empat jenis kompresi yang disertai dengan informasi
+   kualitas kompresinya
+3. Tekan tombol [Kompres] untuk memulai kompresi
+4. Informasi hasil kompresi akan ditampilkan
+5. Tekan tombol [Folder] untuk menuju ke lokasi file hasil kompresi
+6. Tekan tombol [Keluar] untuk keluar dari aplikasi
+7. Tekan tombol [Manual] untuk informasi lebih lanjut
+
+
+=== PERINGATAN
+
+Aplikasi Kompresi PDF hanyalah antarmuka dari pustaka ghostscript. Kualitas
+hasil kompresi tergantung dari kinerja pustaka tersebut. Sejauh pengujian yang
+dilakukan, hasil kompresi cukup memuaskan.
+
+
+=== LISENSI KOMPRESI PDF
+
+MIT License
+
+Copyright (c) 2022 Abdiansah (abdiansah.unsri@gmail.com) - AIRLab UNSRI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
