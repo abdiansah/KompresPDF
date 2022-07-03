@@ -154,7 +154,7 @@ class Ui_FMain(object):
 
     def retranslateUi(self, FMain):
         _translate = QtCore.QCoreApplication.translate
-        FMain.setWindowTitle(_translate("FMain", "Kompresi PDF"))
+        FMain.setWindowTitle(_translate("FMain", "Kompres PDF"))
         self.GLokasiFileFolder.setTitle(_translate("FMain", "Lokasi File/Folder"))
         self.RBFile.setText(_translate("FMain", "File"))
         self.RBFolder.setText(_translate("FMain", "Folder"))

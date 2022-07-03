@@ -1,11 +1,11 @@
-=== KOMPRESI PDF
+=== KOMPRES PDF
 
 Pembuat  : Abdiansah
 Versi    : 1.0.0 (Juni 2022)
 Kontak   : abdiansah.unsri@gmail.com
 
 
-=== TENTANG KOMPRESI PDF
+=== TENTANG KOMPRES PDF
 
 Kompresi PDF adalah aplikasi untuk melakukan kompresi file pdf menggunakan
 bantuan pustaka ghostscript (http://web.mit.edu/ghostscript/www/Ps2pdf.htm).
@@ -16,8 +16,8 @@ kompresi.
 
 === PETUNJUK PENGGUNAAN SINGKAT
 
-1. Pilih lokasi file/folder, pilih file jika hanya satu file pdf yang akan
-   dikompres, pilih folder jika banyak file pdf yang akan dikompres
+1. Pilih lokasi file/folder, pilih "file" jika hanya satu file pdf yang akan
+   dikompres, pilih "folder" jika banyak file pdf yang akan dikompres
 2. Pilih jenis kompresi, ada empat jenis kompresi yang disertai dengan informasi
    kualitas kompresinya
 3. Tekan tombol [Kompres] untuk memulai kompresi
